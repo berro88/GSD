@@ -1,0 +1,5 @@
+# Ignore everything on D:\ except .planning/
+*
+!.planning/
+!.planning/**
+!.gitignore
